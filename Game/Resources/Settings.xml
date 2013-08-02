@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<entities>
+		<hero>
+			<components>
+				<component name="graphic" value="HeroGr"/>
+				<component name="graphic" value="HeroGr"/>
+			</components>
+		</hero>
+	</entities>
+	
+</game>

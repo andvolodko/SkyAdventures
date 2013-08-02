@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="GameLibs" type="flex">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Game/lib" />
+      <root url="file://$PROJECT_DIR$/Game/Resources" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/Game/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/Game/Resources" recursive="false" />
+  </library>
+</component>

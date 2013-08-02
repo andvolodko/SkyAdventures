@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FlexCompilerConfiguration">
+    <option name="MAX_PARALLEL_COMPILATIONS" value="10" />
+    <option name="HEAP_SIZE_MB" value="1000" />
+    <option name="SWC_DEBUG_ENABLED" value="false" />
+  </component>
+  <component name="FlexIdeProjectLevelCompilerOptionsHolder">
+    <compiler-options />
+  </component>
+</project>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<!-- English -->
+	<en>
+		<newGame name="New game" />
+		<continue name="Continue" />
+		<menu name="Menu" />
+	</en>
+	<!-- Russian -->
+	<ru>
+	</ru>
+</game>

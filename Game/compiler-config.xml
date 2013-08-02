@@ -1,0 +1,10 @@
+<flex-config xmlns="http://www.adobe.com/2006/flex-config">
+  <compiler>
+    <debug>true</debug>
+    <source-path><path-element>E:/work/games/SkyAdventures/Game/src</path-element></source-path>
+  </compiler>
+  <file-specs>
+    <path-element>E:/work/games/SkyAdventures/Game/src/Game.as</path-element>
+  </file-specs>
+  <output>E:/work/games/SkyAdventures/out/production/Game/Game.swf</output>
+</flex-config>

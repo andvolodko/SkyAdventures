@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<clip name="[class HeroGr]" sameBitmap="1,0|2,0|3,0|4,0" physic="" />
+	<clip name="[class GraphicsGr]" sameBitmap="" physic="" />
+</data>

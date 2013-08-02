@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="Game">
+    <configurations>
+      <configuration name="Game" pure-as="true" main-class="org.volodko.game.Preloader" output-file="Game.swf" output-folder="$MODULE_DIR$/../out/production/Game">
+        <dependencies target-player="11.1">
+          <entries>
+            <entry library-name="GameLibs" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="4.6.0" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.define" value="CONFIG::release&#9;false&#10;CONFIG::debug&#9;true" />
+          </map>
+          <option name="additionalOptions" value="-frame=start,org.volodko.game.Game -default-size 700 500" />
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="4.6.0" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="GameLibs" level="project" />
+  </component>
+</module>
+
